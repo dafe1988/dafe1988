@@ -15,13 +15,13 @@
 * Кликни [сюда](https://github.com/dafe1988/SF-DSPR-174) чтобы посмотреть мои проекты
 
 ### 💡 Основные компетенции 💡
-- Инструменты: 
+- Инструменты:
+  * Python;
+  * SQL;
 - Skills:
 
 Hard skills:
 
-    * Python;
-    * SQL;
     * Mathematical statistics;
     * Data Preprocessing and Data Analysis;
     * Machine Learning and Deep Learning;
