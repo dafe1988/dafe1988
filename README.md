@@ -1,4 +1,76 @@
-## Hi there 👋
+### Привет! 👋
+
+### ✨ Обо мне за 30 секунд ✨ 
+* 🎓 Образование:
+  - 
+  - 
+  - 
+* 
+*  
+* 
+* 
+
+### 📚 Проекты 📚
+
+* Кликни [сюда](https://github.com/dafe1988/SF-DSPR-174) чтобы посмотреть мои проекты
+
+### 💡 Основные компетенции 💡
+- Инструменты: 
+- Skills:
+  -- Hard skills:
+    * Python;
+    * SQL;
+    * Mathematical statistics;
+    * Data Preprocessing and Data Analysis;
+    * Machine Learning and Deep Learning;
+    * NLP;
+-- Soft skills:
+    * Learning;
+    * Communication skills;
+    * Team player;
+
+
+### ⚡️ В настоящее время ⚡️
+- Прохожу курс Data Science в Skillfactory
+- 
+- 
+- 
+
+### 🙌🏻 Свяжись со мной
+- [Telegram](@Kondorform)
+- [Kaggle](https://www.kaggle.com/dariafesenko)
+
+---
+
+### Hello! 👋
+
+### ✨ About me in 30 seconds ✨ 
+* 🎓 Education:
+ - 
+ - 
+ - 
+* 
+* 
+* 
+* 
+
+### 💡 Core competencies 💡
+- Tools: 
+  - Skills:
+    * 
+    * 
+    * 
+
+
+### ⚡️ Currently ⚡️
+- 
+- 
+- 
+- 
+
+### 🙌🏻 Contact me
+- [Telegram]()
+- [Kaggle]()
 
 <!--
 **dafe1988/dafe1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
