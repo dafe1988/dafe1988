@@ -17,14 +17,18 @@
 ### 💡 Основные компетенции 💡
 - Инструменты: 
 - Skills:
-  -- Hard skills:
+
+Hard skills:
+
     * Python;
     * SQL;
     * Mathematical statistics;
     * Data Preprocessing and Data Analysis;
     * Machine Learning and Deep Learning;
     * NLP;
--- Soft skills:
+    * 
+Soft skills:
+
     * Learning;
     * Communication skills;
     * Team player;
