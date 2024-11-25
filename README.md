@@ -23,7 +23,7 @@ Hard skills:
     * Data Preprocessing and Data Analysis;
     * Machine Learning and Deep Learning;
     * NLP;
-    * 
+     
 Soft skills:
 
     * Learning;
@@ -33,9 +33,7 @@ Soft skills:
 
 ### ⚡️ В настоящее время ⚡️
 - Прохожу курс Data Science в Skillfactory
-- 
-- 
-- 
+  
 
 ### 🙌🏻 Свяжись со мной
 - [Telegram](@Kondorform)
@@ -47,31 +45,36 @@ Soft skills:
 
 ### ✨ About me in 30 seconds ✨ 
 * 🎓 Education:
- - 
- - 
- - 
-* 
-* 
-* 
-* 
+  - Ural State Technical University – UPI, Faculty of Chemical Technology, Bachelor’s degree in Biotechnology
+  - Humanitarian University, Psychology
+* course Data Science Skillfactory 
 
 ### 💡 Core competencies 💡
 - Tools: 
   - Skills:
-    * 
-    * 
-    * 
+    
+Hard skills:
+
+    * Mathematical statistics;
+    * Data Preprocessing and Data Analysis;
+    * Machine Learning and Deep Learning;
+    * NLP;
+     
+Soft skills:
+
+    * Learning;
+    * Communication skills;
+    * Team player; 
 
 
 ### ⚡️ Currently ⚡️
-- 
-- 
-- 
-- 
+- Data Science course Skillfactory
+
 
 ### 🙌🏻 Contact me
-- [Telegram]()
-- [Kaggle]()
+- [Telegram](@Kondorform)
+- [Kaggle](https://www.kaggle.com/dariafesenko)
+
 
 <!--
 **dafe1988/dafe1988** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
